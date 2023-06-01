@@ -46,3 +46,10 @@ print(f'f({x}) = {y}')
 
 
 # 4.程序的循环结构
+# 4.1 for-in循环
+# 1~100求和
+sum1 = 0
+for num1 in range(1, 101):
+    sum1 += num1
+print(num1)
+# 1~100间的偶数求和
