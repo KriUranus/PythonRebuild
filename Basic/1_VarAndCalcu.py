@@ -1,4 +1,4 @@
-# T/I: Basic Review of Python
+# T/I: Basic Review of Python - Variables And Calculations
 # Date: 2023.6.1
 # Author: @KriUranus
 
@@ -70,6 +70,7 @@ print('flag2 =', flag2)    # flag2 = False
 print('flag3 =', flag3)    # flag3 = False
 print('flag4 =', flag4)    # flag4 = True
 print('flag5 =', flag5)    # flag5 = False
+
 
 
 # Eg: 判断用户输入的年份是否为闰年
